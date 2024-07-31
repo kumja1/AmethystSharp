@@ -1,0 +1,3 @@
+[submodule "vendors/Amethyst"]
+	path = vendors/Amethyst
+	url = https://github.com/FrederoxDev/Amethyst.git
